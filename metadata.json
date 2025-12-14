@@ -1,0 +1,5 @@
+{
+  "name": "Barbería Canina - ID Creator",
+  "description": "Herramienta offline para generar credenciales de mascotas y gestionar nuevos clientes de peluquería canina.",
+  "requestFramePermissions": []
+}
